@@ -27,6 +27,8 @@
 
 ## Official Wage & Salary Data Sources
 
+- [WageLark](https://wagelark.com/) — Free BLS OEWS-sourced occupation salary explainers and career notes with methodology footnotes.
+
 - [BLS Occupational Employment and Wage Statistics (OEWS)](https://www.bls.gov/oes/) — Annual salary data by occupation and state; the most authoritative US wage dataset.
 - [BLS National Compensation Survey](https://www.bls.gov/ncs/) — Wages and benefits by industry and occupation.
 - [Census Bureau American Community Survey (ACS) PUMS](https://www.census.gov/programs-surveys/acs/microdata/access.html) — Individual-level earnings microdata (anonymized).
